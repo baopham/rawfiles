@@ -1,1 +1,2 @@
-
+SKU,Catalog / Stores,Country,Price,Sale Price,Currency,Shipping and Handling,Purchase Limit,Start Date,Start Time,End Date,End Time,Customs Unit Price,Customs Max Quantity,Customs Fee,Customs Shipping and Handling Fee,Is Shipping Fee Included in Price,Shipping Tiers
+sam-toy-cat,SAM toys,VN,20,10,VND,11.69,2,12/2/24,1:00 PM,12/31/24,1:00 PM,,,10.69,,TRUE,
